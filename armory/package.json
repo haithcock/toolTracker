@@ -1,0 +1,20 @@
+{
+  "name": "armory",
+  "version": "1.0.0",
+  "description": "Class project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haithcock/toolTracker.git"
+  },
+  "author": "Dakota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/haithcock/toolTracker/issues"
+  },
+  "homepage": "https://github.com/haithcock/toolTracker#readme"
+}
